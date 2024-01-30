@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start Game Scene.unity
+    guid: 7ce2d3e844adfff43a0ad5f7295addae
+  - enabled: 1
+    path: Assets/Scenes/Maze Scene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Victory Scene.unity
+    guid: 463ab8ca96d70c2488661cf9bcc953f0
+  - enabled: 1
+    path: Assets/Scenes/Defeat Scene.unity
+    guid: 48bd5298472b0fb46862de1869737610
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: e940265fe6e5312448e8b40742d523e9,
+      type: 2}
